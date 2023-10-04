@@ -24,7 +24,6 @@ Projeto unilizando algumas API, vai estar apresentando alguns filmes laçamentos
 - IMG_URL = 'https://image.tmdb.org/t/p/w500';
 - language = 'language=pt-BR';
 
-<p>Preview do meu projeto <a href="https://steffanylivino.github.io/Pokedex/">Netflix </a>
-</p>
+
 
 Feito com ♥ by Steffany Livino  
